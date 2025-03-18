@@ -12,8 +12,4 @@ I'm a 24 year old Ecuadorian-American born and raised in Astoria, Queens. I enjo
 
 ## 🎡 **Fun fact!**
 
-<<<<<<< HEAD
 - **Future plans:** I love activities like ziplining and I am planning on going skydiving in the future!
-=======
-- **Future plans:** I love activities like ziplining and I am planning on going skydiving in the future!
->>>>>>> origin/master
